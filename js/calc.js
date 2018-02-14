@@ -23,7 +23,7 @@
 // - Add event listeners for each button
 var numberButtons = document.getElementsByClassName('buttonNum');
 var operatorButtons = document.getElementsByClassName('operator');
-var display = document.getElementById('screen');
+var display = document.getElementById('screen')
 var calculateButton = document.getElementsByClassName('equals')[0];
 var resetButton = document.getElementsByClassName('buttonClear')[0];
 var firstNumber, secondNumber, operator;
